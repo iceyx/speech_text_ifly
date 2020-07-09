@@ -5,3 +5,10 @@
 .pub/
 
 build/
+.dart_tool
+.history
+.idea
+android/.gradle
+android/.idea
+.metadata
+*.lock
